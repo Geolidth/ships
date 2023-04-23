@@ -1,3 +1,5 @@
+//Csajbók-Reményi László   SZOFT-I/2/E  2023.04.23.
+
 const tbody = document.querySelector("#tbody");
 const host = 'http://localhost:3000/';
 var ships = [];
